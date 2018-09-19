@@ -2853,7 +2853,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <replenishAccountMarketFieldCode>field(S133717540667A133717540638)</replenishAccountMarketFieldCode>
 <createDocApplicationEnabled>true</createDocApplicationEnabled>
 <brokerageHelpPhoneNumber>900</brokerageHelpPhoneNumber>
-<brokerageProductsAvailableInFinance>true</brokerageProductsAvailableInFinance>
+<brokerageProductsAvailableInFinance>false</brokerageProductsAvailableInFinance>
 <nodes>
 <node id="ift-node1.testonline.sberbank.ru">
 <enabled>true</enabled>
